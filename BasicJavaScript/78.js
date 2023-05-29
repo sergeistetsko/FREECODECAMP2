@@ -1,4 +1,4 @@
-function sequentialSizes(val) {
+function sequentialSizes(val)  {
     let answer = "";
     // Only change code below this line
   switch (val) {
